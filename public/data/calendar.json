@@ -1,0 +1,1344 @@
+{
+  "client": "Zion White Bison",
+  "timezone": "America/Denver",
+  "updatedAt": "2026-09-29",
+  "defaultMonth": "2026-10",
+  "brand": {
+    "name": "Zion White Bison",
+    "positioning": "Luxury glamping and full-hookup RV near Zion National Park, with white bison on the property and a guest shuttle to the park.",
+    "audience": [
+      "Couples",
+      "Families",
+      "Snowbird / RV guests"
+    ],
+    "offers": [
+      "Teepees",
+      "Cliff dwellings",
+      "Covered wagons",
+      "Full-hookup RV",
+      "Pool, pickleball, trails, pond, mercantile",
+      "Park & Ride / guest shuttle",
+      "Bison sanctuary"
+    ],
+    "voice": "Warm, elevated, place-proud, adventure-with-comfort.",
+    "captionFormula": "Scene → stay type → amenity or bison → soft CTA",
+    "use": [
+      "Luxury glamping",
+      "Zion minutes away",
+      "White bison",
+      "Sanctuary",
+      "Shuttle",
+      "Red rock"
+    ],
+    "avoid": [
+      "Budget-campground tone",
+      "Invented awards or reviews",
+      "Over-spiritualizing the bison"
+    ],
+    "visual": "Golden-hour red rock, exteriors plus cozy interiors, bison, pool and river, night sky."
+  },
+  "items": [
+    {
+      "kind": "content",
+      "id": "zwb-2026-10-05-the-return",
+      "date": "2026-10-05",
+      "title": "The Return",
+      "format": "Reel",
+      "status": "in-creation",
+      "concept": "After a full Zion day, the real luxury is coming home to property: boots off, private hot tub, firelight, and stars. Sell the contrast between red-rock effort and soft return. Warm, elevated, no budget-campground energy.",
+      "hook": "Boots off. Stars on.",
+      "shotList": "Golden hour into blue hour at a Tipi or Cliff Dwelling with private hot tub. Firepit lit. Clear night if possible.\n\nOptional: feet kicking off hiking boots on stoop or deck (talent or crew legs). Hands wrapping in a robe. Settle into hot tub.\n\nDusty trail boots. Hot tub steam against red rock. Firepit crackle. Wide night sky over lodging. Soft interior lamp glow.",
+      "caption": "The park takes your day. We take your evening. Luxury glamping near Zion means the hike ends in hot water, firelight, and a sky full of stars. Tipis, cliff dwellings, covered wagons, and full-hookup RV. White bison on the property. Shuttle when you want the corridor without the parking hunt. Book at zionwhitebisonresort.com or call (435) 635-3004.",
+      "length": "15–25s",
+      "textOverlays": [
+        {
+          "id": "zwb-1005-1",
+          "timing": "0:00–0:03",
+          "text": "Boots off",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1005-2",
+          "timing": "0:03–0:08",
+          "text": "Hot tub under the stars",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1005-3",
+          "timing": "0:08–0:15",
+          "text": "This is the return",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1005-4",
+          "timing": "0:15–0:22",
+          "text": "Zion White Bison",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-10-07-you-booked-fishing",
+      "date": "2026-10-07",
+      "title": "You Booked This: Fishing",
+      "format": "Reel",
+      "status": "in-creation",
+      "concept": "Part of the You Booked This series: reveal that the stay includes quiet pond fishing as a slow amenity beat, not a hard sell. Scene-first, then lodge type, then soft CTA. Feels like a discovery, not a brochure.",
+      "hook": "You thought you booked a bed.",
+      "shotList": "Pond at golden hour or soft morning. Rods / simple fishing moment. Stay exterior in background if possible.\n\nHands baiting or casting (talent or staff). Kid or couple optional if available and cleared.\n\nRipple on pond. Red rock reflection. Wide of lodging beyond water. Mercantile or trail walk-in for texture.",
+      "caption": "You thought you booked a place to sleep. You also booked quiet water, a fishing pond, and a soft morning before the park crowds move. Luxury glamping and RV near Zion, with white bison on the property and a guest shuttle when Springdale calls. zionwhitebisonresort.com · (435) 635-3004",
+      "length": "15–25s",
+      "textOverlays": [
+        {
+          "id": "zwb-1007-1",
+          "timing": "0:00–0:03",
+          "text": "You booked this",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1007-2",
+          "timing": "0:03–0:10",
+          "text": "Quiet pond mornings",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1007-3",
+          "timing": "0:10–0:18",
+          "text": "Basecamp near Zion",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1007-4",
+          "timing": "0:18–0:24",
+          "text": "Zion White Bison",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-10-09-you-booked-river",
+      "date": "2026-10-09",
+      "title": "You Booked This: River",
+      "format": "Reel",
+      "status": "in-creation",
+      "concept": "You Booked This beat focused on river trails and water-edge wandering on property. Adventure-with-comfort: the stay is a corridor to soft nature, not only a room key. Keep elevated, place-proud.",
+      "hook": "Your reservation includes a river walk.",
+      "shotList": "River trail / water edge on property. Soft light. Shoes optional for shallow detail shots if safe.\n\nWalking POV along trail. Optional couple or solo guest-style walk (cleared talent).\n\nWater over rock. Cottonwood or trail canopy. Cutaways to Tipi/Wagon exterior after the walk.",
+      "caption": "The booking confirmation said lodging. What you actually unlocked: river trails, red rock air, and a place to come back soft after Zion. Luxury glamping and full-hookup RV. White bison sanctuary on property. Guest shuttle toward Springdale. Book: zionwhitebisonresort.com · (435) 635-3004",
+      "length": "15–25s",
+      "textOverlays": [
+        {
+          "id": "zwb-1009-1",
+          "timing": "0:00–0:03",
+          "text": "You booked this",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1009-2",
+          "timing": "0:03–0:10",
+          "text": "River trails included",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1009-3",
+          "timing": "0:10–0:18",
+          "text": "Come back soft",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1009-4",
+          "timing": "0:18–0:24",
+          "text": "Zion White Bison",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-10-10-choose-your-white-bison-teaser",
+      "date": "2026-10-10",
+      "title": "Choose Your White Bison (teaser)",
+      "format": "Carousel",
+      "status": "in-creation",
+      "concept": "Personality teaser carousel: Wagon, Tipi, Kiva (cliff dwelling), and RV as four different guest moods, not an inventory dump. Fun, elevated, place-proud. Soft Fall Adventure add-on in caption only.",
+      "hook": "Which White Bison are you?",
+      "shotList": "Hero still of each stay type at best light. Clean brand type on each slide.\n\nN/A (carousel stills).\n\nSlide photos: Covered Wagon exterior + cozy interior; Tipi by pond/hot tub; Cliff Dwelling / Kiva rooftop or facade; Full-hookup RV site with amenity context.",
+      "caption": "Which White Bison are you? Covered Wagon for the storyteller. Tipi for the stargazer. Kiva (cliff dwelling) for the hideout seeker. Full-hookup RV for the road-ready basecamper. One resort near Zion, white bison on the property, shuttle when you need Springdale. Planning Zion in fall? Stay includes Adventure Perks. Code ZIONFALL26. Book: zionwhitebisonresort.com · (435) 635-3004",
+      "length": "4–6 slides",
+      "textOverlays": [
+        {
+          "id": "zwb-1010-1",
+          "timing": "slide 1",
+          "text": "Which White Bison are you?",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1010-2",
+          "timing": "slide 2",
+          "text": "Wagon · cozy storyteller",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1010-3",
+          "timing": "slide 3",
+          "text": "Tipi · stars + hot tub",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1010-4",
+          "timing": "slide 4",
+          "text": "Kiva · elevated hideout",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1010-5",
+          "timing": "slide 5",
+          "text": "RV · adventurer basecamp",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1010-6",
+          "timing": "slide 6",
+          "text": "Book your stay",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-10-12-you-booked-quiet-walks",
+      "date": "2026-10-12",
+      "title": "You Booked This: Quiet Walks + Wildlife",
+      "format": "Reel",
+      "status": "in-creation",
+      "concept": "You Booked This: slow property walks and respectful wildlife moments (deer or other common property wildlife if available; bison only at safe designated viewing, wonder-led). Soft discovery tone.",
+      "hook": "You booked quiet. The land delivered.",
+      "shotList": "Early morning property paths. Never crowd bison.\n\nWalking feet, coffee in hand optional. Whispered VO optional (staff).\n\nTrail mist or soft light. Distant wildlife if ethical. Cut to lodging porch settle.",
+      "caption": "You booked a stay. You also booked the quiet between park days. Property trails, soft mornings, and wildlife at a respectful distance. Luxury glamping and RV near Zion, with a white bison sanctuary on site and a guest shuttle when you head toward Springdale. zionwhitebisonresort.com · (435) 635-3004",
+      "length": "15–25s",
+      "textOverlays": [
+        {
+          "id": "zwb-1012-1",
+          "timing": "0:00–0:03",
+          "text": "You booked this",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1012-2",
+          "timing": "0:03–0:10",
+          "text": "Quiet walks",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1012-3",
+          "timing": "0:10–0:18",
+          "text": "Wildlife, respectfully",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1012-4",
+          "timing": "0:18–0:24",
+          "text": "Zion White Bison",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-10-14-you-booked-pool",
+      "date": "2026-10-14",
+      "title": "You Booked This: Pool",
+      "format": "Reel",
+      "status": "in-creation",
+      "concept": "You Booked This: pool as the midday reset between Zion mornings and evening fire. Adventure-with-comfort.",
+      "hook": "Midday reset: unlocked.",
+      "shotList": "Pool deck, sun or bright overcast. Loungers, water texture, mountain backdrop.\n\nGuest-style dip or toes-in (cleared talent) OR pure B-roll if pool closed/cold.\n\nWater ripples, shade umbrellas, cut to Tipi/Wagon, then evening tease.",
+      "caption": "Park in the morning. Water in the afternoon. You booked more than a bed. You booked the pool reset between red rock days. Luxury glamping and full-hookup RV near Zion, white bison on the property, guest shuttle ready. Book: zionwhitebisonresort.com · (435) 635-3004",
+      "length": "15–25s",
+      "textOverlays": [
+        {
+          "id": "zwb-1014-1",
+          "timing": "0:00–0:03",
+          "text": "You booked this",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1014-2",
+          "timing": "0:03–0:10",
+          "text": "Pool between park days",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1014-3",
+          "timing": "0:10–0:18",
+          "text": "Adventure with comfort",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1014-4",
+          "timing": "0:18–0:24",
+          "text": "Zion White Bison",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-10-16-you-booked-hot-tub-stars",
+      "date": "2026-10-16",
+      "title": "You Booked This: Private Hot Tub Under Stars",
+      "format": "Reel",
+      "status": "in-creation",
+      "concept": "Climax of You Booked This amenity lane: private hot tub under stars as the emotional payoff. Elevated, romantic without cheese. Soft promo add-on in caption this week.",
+      "hook": "Private hot tub. Public stars.",
+      "shotList": "Night: Tipi or Cliff Dwelling private hot tub. Steam, string light or fire nearby if available, stars.\n\nSilhouette settle into tub (talent couple preferred if cleared) or steam-only B-roll.\n\nSteam detail, sky wide, robe on chair, red rock night shape.",
+      "caption": "The confirmation said lodging. It did not say steam under a desert sky. Private hot tubs, luxury glamping near Zion, white bison on the property, and a guest shuttle when Springdale is the plan. Planning Zion in fall? Stay includes Adventure Perks. Code ZIONFALL26. zionwhitebisonresort.com · (435) 635-3004",
+      "length": "15–25s",
+      "textOverlays": [
+        {
+          "id": "zwb-1016-1",
+          "timing": "0:00–0:03",
+          "text": "You booked this",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1016-2",
+          "timing": "0:03–0:10",
+          "text": "Private hot tub",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1016-3",
+          "timing": "0:10–0:18",
+          "text": "Stars included",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1016-4",
+          "timing": "0:18–0:24",
+          "text": "Zion White Bison",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-10-17-faq-yes-its-outside",
+      "date": "2026-10-17",
+      "title": "FAQ: Yes, It's Outside",
+      "format": "Carousel",
+      "status": "in-creation",
+      "concept": "Expectation-setting carousel for outdoor lodging: bugs, dirt, weather, walking, and outdoor living done luxuriously. Deadpan-warm, not defensive. Helps close the right guest and filter the wrong fit.",
+      "hook": "Yes, it's outside. That's the point.",
+      "shotList": "Photo set: dusty boots, cozy interior contrast, weather sky, path to lodging, hot tub night.\n\nN/A.\n\nStills matching each FAQ beat with elevated interiors as the payoff.",
+      "caption": "Yes, it's outside. That is the point. There will be bugs, dirt, weather, and a little walking. There will also be real beds, private hot tubs on many stays, firelight, and a sky that remakes the day. Luxury glamping and RV near Zion, with white bison on the property. Ready for the outside version of comfort? zionwhitebisonresort.com · (435) 635-3004",
+      "length": "4–6 slides",
+      "textOverlays": [
+        {
+          "id": "zwb-1017-1",
+          "timing": "slide 1",
+          "text": "Yes, it's outside",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1017-2",
+          "timing": "slide 2",
+          "text": "Bugs? Sometimes.",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1017-3",
+          "timing": "slide 3",
+          "text": "Dirt? Comes with red rock.",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1017-4",
+          "timing": "slide 4",
+          "text": "Weather? Pack layers.",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1017-5",
+          "timing": "slide 5",
+          "text": "Walking? A little.",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1017-6",
+          "timing": "slide 6",
+          "text": "Then: hot tub + stars",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-10-19-you-booked-bison",
+      "date": "2026-10-19",
+      "title": "You Booked White Bison: Actual Bison",
+      "format": "Reel",
+      "status": "in-creation",
+      "concept": "Wonder-led bison reveal: guests stay where white bison live on property (sanctuary framing).",
+      "hook": "You booked White Bison. We meant it.",
+      "shotList": "Never bait or crowd animals.\n\nOptional quiet guest reaction (cleared) watching from distance.\n\nWhite bison at respectful distance. Soft cut to lodging. Sanctuary feel, not zoo.",
+      "caption": "You booked White Bison. We meant the animals too. Luxury glamping and RV near Zion, with a white bison sanctuary on the property. Wonder first. Distance always. Guest shuttle when the park corridor calls. Book: zionwhitebisonresort.com · (435) 635-3004",
+      "length": "15–25s",
+      "textOverlays": [
+        {
+          "id": "zwb-1019-1",
+          "timing": "0:00–0:03",
+          "text": "You booked White Bison",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1019-2",
+          "timing": "0:03–0:10",
+          "text": "On the property",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1019-3",
+          "timing": "0:10–0:18",
+          "text": "Wonder from a distance",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1019-4",
+          "timing": "0:18–0:24",
+          "text": "Zion White Bison",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-10-21-choose-your-white-bison",
+      "date": "2026-10-21",
+      "title": "Choose Your White Bison",
+      "format": "Reel",
+      "status": "in-creation",
+      "concept": "Deeper personality reel (not inventory): quick cuts matching guest mood to Wagon / Tipi / Kiva / RV. Fun, elevated, decisive. Differs from 10/10 teaser carousel by being motion + voice or kinetic text.",
+      "hook": "Be honest. Which one is your energy?",
+      "shotList": "Four quick location setups same day if possible. Matching music energy shifts per stay.\n\nOptional host VO or on-cam one-liners per type (staff). Or kinetic text only.\n\nSignature shot each: Wagon porch story feel; Tipi hot tub stars tease; Kiva rooftop/elevated; RV bikes/gear unload.",
+      "caption": "One resort. Four personalities. Covered Wagon if you want storybook cozy. Tipi if you want stars and steam. Kiva (cliff dwelling) if you want the elevated hideout. Full-hookup RV if the road is half the point. All of it near Zion, with white bison on the property. Planning Zion in fall? Stay includes Adventure Perks. Code ZIONFALL26. zionwhitebisonresort.com · (435) 635-3004",
+      "length": "15–25s",
+      "textOverlays": [
+        {
+          "id": "zwb-1021-1",
+          "timing": "0:00–0:03",
+          "text": "Which energy are you?",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1021-2",
+          "timing": "0:03–0:08",
+          "text": "Wagon",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1021-3",
+          "timing": "0:08–0:13",
+          "text": "Tipi",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1021-4",
+          "timing": "0:13–0:18",
+          "text": "Kiva",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1021-5",
+          "timing": "0:18–0:23",
+          "text": "RV · Your move",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-10-23-how-do-you-firepit",
+      "date": "2026-10-23",
+      "title": "How Do You Firepit?",
+      "format": "Reel",
+      "status": "in-creation",
+      "concept": "Personality quiz reel at the firepit: s'more engineer vs chaos chef, storyteller vs silent stargazer. Light, social, place-proud. Drives comments and saves.",
+      "hook": "How do you firepit?",
+      "shotList": "Firepit night. Marshmallows, chairs, sky. Multiple guest archetypes (staff stand-ins OK).\n\nQuick character beats: precise s'more build; messy laugh; someone mid-story; someone silent looking up.\n\nEmbers, sparks, wide lodging glow, stars.",
+      "caption": "How do you firepit? S'more engineer. Beautiful chaos. Storyteller. Silent stargazer. However you sit by the flame, luxury glamping near Zion gives you the night: Tipis, wagons, cliff dwellings, RV sites, white bison on the property. Drop your type below. Book: zionwhitebisonresort.com · (435) 635-3004",
+      "length": "15–25s",
+      "textOverlays": [
+        {
+          "id": "zwb-1023-1",
+          "timing": "0:00–0:03",
+          "text": "How do you firepit?",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1023-2",
+          "timing": "0:03–0:08",
+          "text": "S'more engineer",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1023-3",
+          "timing": "0:08–0:13",
+          "text": "Beautiful chaos",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1023-4",
+          "timing": "0:13–0:18",
+          "text": "Storyteller",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1023-5",
+          "timing": "0:18–0:24",
+          "text": "Or silent stargazer?",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-10-24-one-resort-four-returns",
+      "date": "2026-10-24",
+      "title": "One Resort, Four Returns",
+      "format": "Carousel",
+      "status": "in-creation",
+      "concept": "Carousel of four emotional returns after a Zion day: soak, cookout/fire, wildlife wonder, RV-basecamp unload. Ties amenity stack without promo pressure. Soft elevated close.",
+      "hook": "One resort. Four ways to return.",
+      "shotList": "Four strong stills: hot tub return; firepit; distant bison or sanctuary mood; RV site with bikes/gear.\n\nN/A.\n\nAs above, plus pool or pickleball optional fifth if needed.",
+      "caption": "One resort. Four returns. Soak after the trail. Fire when the sky turns. Wonder at the white bison from a respectful distance. Basecamp in a full-hookup RV when the road is the ritual. Luxury glamping near Zion, guest shuttle ready. zionwhitebisonresort.com · (435) 635-3004",
+      "length": "4–6 slides",
+      "textOverlays": [
+        {
+          "id": "zwb-1024-1",
+          "timing": "slide 1",
+          "text": "One resort, four returns",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1024-2",
+          "timing": "slide 2",
+          "text": "Return: soak",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1024-3",
+          "timing": "slide 3",
+          "text": "Return: fire",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1024-4",
+          "timing": "slide 4",
+          "text": "Return: wonder",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1024-5",
+          "timing": "slide 5",
+          "text": "Return: basecamp",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1024-6",
+          "timing": "slide 6",
+          "text": "Book your stay",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-10-26-faq-yes-its-outside-reel",
+      "date": "2026-10-26",
+      "title": "FAQ: Yes, It's Outside (reel)",
+      "format": "Reel",
+      "status": "in-creation",
+      "concept": "Deadpan expectation-setting reel version of the outdoor lodging FAQ. Humor without mockery. Filters for fit. Ends on luxury payoff (linens, hot tub, stars).",
+      "hook": "Quick FAQ before you book.",
+      "shotList": "Talking-head optional OR kinetic text over B-roll of outdoor + cozy contrast.\n\nDeadpan host (staff) answering FAQ to camera, OR text-led with no face.\n\nBugs lamp gag light; dusty boots; wind on flag; walking path; smash cut to perfect bed/hot tub.",
+      "caption": "Quick FAQ. Bugs: sometimes. Dirt: part of red rock. Weather: pack layers. Walking: a little. Private hot tub and real beds after: also yes. Luxury glamping and RV near Zion. White bison on the property. Built for people who want the outside version of comfort. zionwhitebisonresort.com · (435) 635-3004",
+      "length": "15–25s",
+      "textOverlays": [
+        {
+          "id": "zwb-1026-1",
+          "timing": "0:00–0:03",
+          "text": "Quick FAQ",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1026-2",
+          "timing": "0:03–0:08",
+          "text": "Bugs? Sometimes.",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1026-3",
+          "timing": "0:08–0:14",
+          "text": "Dirt? Weather? Walking? Yes.",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1026-4",
+          "timing": "0:14–0:22",
+          "text": "Hot tub after? Also yes.",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-10-28-rv-rampage-basecamp",
+      "date": "2026-10-28",
+      "title": "RV Rampage Basecamp",
+      "format": "Reel",
+      "status": "in-creation",
+      "concept": "RV lifestyle reel: bikes unload, the house-on-wheels as HQ, resort amenities as the upgrade over dry camping. Place-proud, adventure-forward. Full-hookup as comfort, not compromise.",
+      "hook": "The RV is the house. This is the yard.",
+      "shotList": "Full-hookup RV site. E-bikes or bikes, chairs, golden hour.\n\nUnloading bikes, plugging in, walk to pool/pickleball/trails.\n\nHookup detail, mountain backdrop, mercantile pop-in, night site lights.",
+      "caption": "The RV is the house. Zion White Bison is the yard. Full-hookup sites, pool and pickleball, trails and pond, white bison on the property, and a guest shuttle when Springdale is the move. Adventure with comfort for road-ready guests. Book: zionwhitebisonresort.com · (435) 635-3004",
+      "length": "15–25s",
+      "textOverlays": [
+        {
+          "id": "zwb-1028-1",
+          "timing": "0:00–0:03",
+          "text": "RV = the house",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1028-2",
+          "timing": "0:03–0:10",
+          "text": "This = the yard",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1028-3",
+          "timing": "0:10–0:18",
+          "text": "Full hookup + resort",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1028-4",
+          "timing": "0:18–0:24",
+          "text": "Zion White Bison",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-10-30-dan-fall-package",
+      "date": "2026-10-30",
+      "title": "I Tried Our Own Fall Package: Dan",
+      "format": "Reel",
+      "status": "in-creation",
+      "concept": "First-person day-in-the-life with Dan: coffee, shuttle, Zion, bike, pizza payoff, return to property. Authentic operator POV. Soft promo can live naturally in the story since it's the package trial, but keep code for Sat hero if stacking; include soft code here as weekly promo OR save explicit for Sat. Using soft code here as weekly promo beat before Sat hero.",
+      "hook": "I tried our own Fall Adventure.",
+      "shotList": "Follow Dan across a real day: FeelLove Coffee beat, shuttle, park or Springdale corridor, FreeWheels-style bike moment, pizza, return hot tub/fire.\n\nDan on-cam and/or VO narrating the day. Must have Dan.\n\nEach perk beat visually. Property return as emotional close.",
+      "caption": "I tried our own Fall Adventure. Complimentary coffee moment. Shuttle toward Springdale. Zion time. E-bikes. Pizza payoff. Then back to hot water and quiet. Stay. Ride. Explore. Full perk list and code drop on tomorrow's post. Book: zionwhitebisonresort.com · (435) 635-3004",
+      "length": "15–25s",
+      "textOverlays": [
+        {
+          "id": "zwb-1030-1",
+          "timing": "0:00–0:03",
+          "text": "I tried our Fall Adventure",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1030-2",
+          "timing": "0:03–0:08",
+          "text": "Coffee → Shuttle → Zion",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1030-3",
+          "timing": "0:08–0:15",
+          "text": "Bike → Pizza",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1030-4",
+          "timing": "0:15–0:22",
+          "text": "Then home · Stay. Ride. Explore.",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-10-31-fall-adventure-hero",
+      "date": "2026-10-31",
+      "title": "Fall Adventure Hero: Stay. Ride. Explore.",
+      "format": "Static",
+      "status": "in-creation",
+      "concept": "Explicit Fall Adventure promo static: hero visual + tagline Stay. Ride. Explore. Clean Obsession-adjacent luxury layout (gold on ink energy). Halloween date is coincidental",
+      "hook": "Stay. Ride. Explore.",
+      "shotList": "Single hero frame: property + adventure cue (shuttle van, bikes, or Springdale-adjacent energy) with clear type.\n\nN/A.\n\nHero photo options: night stay beauty OR daytime adventure composite.",
+      "caption": "Stay. Ride. Explore. Fall Adventure for Zion White Bison guests: • Four complimentary shuttle rides ZWB → Springdale • 20% off Zion Canyon Brew Pub • One complimentary 16 oz drink at FeelLove Coffee • 10% off rentals at Zion Adventures • Rent two e-bikes at FreeWheels Zion → complimentary pizza Code ZIONFALL26. Book your Fall Adventure at zionwhitebisonresort.com or call (435) 635-3004.",
+      "length": "1 frame",
+      "textOverlays": [
+        {
+          "id": "zwb-1031-1",
+          "timing": "main",
+          "text": "Stay. Ride. Explore.",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1031-2",
+          "timing": "sub",
+          "text": "Fall Adventure · ZIONFALL26",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1031-3",
+          "timing": "cta",
+          "text": "Book your Fall Adventure",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-11-02-night-comes-early",
+      "date": "2026-11-02",
+      "title": "Night Comes Early. Good.",
+      "format": "Reel",
+      "status": "in-creation",
+      "concept": "Late-fall embrace: earlier dark is a feature (fire, hot tub, stars, slower nights). Warm, elevated, anti-FOMO on summer hours. Place-proud November open.",
+      "hook": "Night comes early. Good.",
+      "shotList": "Blue hour to night on property. Firepit and hot tub hero.\n\nOptional quiet talent settling in.\n\nSky gradient, fire, steam, lodging windows glowing.",
+      "caption": "Night comes early. Good. More fire. More steam. More stars over Tipis, wagons, cliff dwellings, and RV sites. Luxury glamping near Zion when the season gets quieter and the sky gets louder. zionwhitebisonresort.com · (435) 635-3004",
+      "length": "15–25s",
+      "textOverlays": [
+        {
+          "id": "zwb-1102-1",
+          "timing": "0:00–0:03",
+          "text": "Night comes early",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1102-2",
+          "timing": "0:03–0:10",
+          "text": "Good.",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1102-3",
+          "timing": "0:10–0:18",
+          "text": "Fire · steam · stars",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1102-4",
+          "timing": "0:18–0:24",
+          "text": "Zion White Bison",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-11-04-zion-season-over",
+      "date": "2026-11-04",
+      "title": "You Think Zion Season Is Over",
+      "format": "Reel",
+      "status": "in-creation",
+      "concept": "Myth-bust: late fall still delivers Zion access with a different rhythm (lighter energy, softer evenings). Feel it, don't spreadsheet it.",
+      "hook": "You think Zion season is over.",
+      "shotList": "Morning property + corridor/shuttle cue + soft park-adjacent B-roll if available (or Springdale street texture).\n\nText-led myth bust or staff VO.\n\nQuiet property, shuttle, red rock light, evening return.",
+      "caption": "You think Zion season is over. Late fall just changes the rhythm: softer evenings, luxury glamping as basecamp, white bison on the property, guest shuttle when you head toward Springdale. Book the quieter chapter: zionwhitebisonresort.com · (435) 635-3004",
+      "length": "15–25s",
+      "textOverlays": [
+        {
+          "id": "zwb-1104-1",
+          "timing": "0:00–0:03",
+          "text": "Season over?",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1104-2",
+          "timing": "0:03–0:10",
+          "text": "Not quite",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1104-3",
+          "timing": "0:10–0:18",
+          "text": "Different rhythm",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1104-4",
+          "timing": "0:18–0:24",
+          "text": "Still Zion",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-11-06-hot-tub-season",
+      "date": "2026-11-06",
+      "title": "Hot Tub Season",
+      "format": "Reel",
+      "status": "in-creation",
+      "concept": "Declare hot tub season: cold air + steam + robes as the November flex. Romantic and family-soft versions possible; keep elevated.",
+      "hook": "Officially: hot tub season.",
+      "shotList": "Night or cold morning private hot tub. Visible breath/steam.\n\nSilhouette or robe walk-in (talent).\n\nSteam clouds, mug on deck, stars, cut to Tipi/Cliff Dwelling.",
+      "caption": "Officially hot tub season. Cold air, honest steam, robes on the chair, stars overhead. Luxury glamping near Zion built for the return after the trail. Tipis, cliff dwellings, covered wagons, full-hookup RV. zionwhitebisonresort.com · (435) 635-3004",
+      "length": "15–25s",
+      "textOverlays": [
+        {
+          "id": "zwb-1106-1",
+          "timing": "0:00–0:03",
+          "text": "Hot tub season",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1106-2",
+          "timing": "0:03–0:10",
+          "text": "Cold air. Warm water.",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1106-3",
+          "timing": "0:10–0:18",
+          "text": "Steam under stars",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1106-4",
+          "timing": "0:18–0:24",
+          "text": "Zion White Bison",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-11-07-fall-adventure-perks",
+      "date": "2026-11-07",
+      "title": "Fall Adventure Perks Reminder",
+      "format": "Carousel",
+      "status": "in-creation",
+      "concept": "Carousel reminding Fall Adventure perks for ZWB guests. One perk per slide. Soft-to-explicit promo OK.",
+      "hook": "Your stay includes Adventure Perks",
+      "shotList": "Clean graphic slides or photo+type hybrids per perk.\n\nN/A.\n\nOptional supporting photos: shuttle, coffee cup, brew pub exterior if cleared, bikes, pizza.",
+      "caption": "Stay. Ride. Explore. Fall Adventure perks for Zion White Bison guests: • Four complimentary shuttle rides to Springdale • 20% off Zion Canyon Brew Pub • One complimentary 16 oz at FeelLove Coffee • 10% off Zion Adventures rentals • Two FreeWheels Zion e-bikes → complimentary pizza Code ZIONFALL26. Book your Fall Adventure: zionwhitebisonresort.com · (435) 635-3004",
+      "length": "4–6 slides",
+      "textOverlays": [
+        {
+          "id": "zwb-1107-1",
+          "timing": "slide 1",
+          "text": "Stay. Ride. Explore.",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1107-2",
+          "timing": "slide 2",
+          "text": "4 shuttle rides to Springdale",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1107-3",
+          "timing": "slide 3",
+          "text": "20% off Zion Canyon Brew Pub",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1107-4",
+          "timing": "slide 4",
+          "text": "Free 16 oz at FeelLove Coffee",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1107-5",
+          "timing": "slide 5",
+          "text": "10% off Zion Adventures",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1107-6",
+          "timing": "slide 6",
+          "text": "2 e-bikes → pizza · ZIONFALL26",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-11-09-kids-forgot-wifi",
+      "date": "2026-11-09",
+      "title": "The Kids Forgot the Wi-Fi",
+      "format": "Reel",
+      "status": "in-creation",
+      "concept": "Family reel: kids absorbed in pond, trails, pickleball, bison-wonder (distance) so Wi-Fi becomes irrelevant. Warm, playful, not preachy about screens.",
+      "hook": "The kids forgot the Wi-Fi.",
+      "shotList": "Daytime family-friendly amenity loop: pond, pickleball, trails, playground-energy without inventing amenities.\n\nKids playing (cleared guest family or staff kids with consent). Parent reaction cutaway.\n\nPhones face-down on table gag. Outdoor joy coverage.",
+      "caption": "The kids forgot the Wi-Fi. Pond time, trails, pickleball, and the kind of tired that comes from outside. Luxury glamping and RV near Zion for families who want adventure with comfort, and white bison on the property to wonder at from a safe distance. zionwhitebisonresort.com · (435) 635-3004",
+      "length": "15–25s",
+      "textOverlays": [
+        {
+          "id": "zwb-1109-1",
+          "timing": "0:00–0:03",
+          "text": "The kids forgot the Wi-Fi",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1109-2",
+          "timing": "0:03–0:10",
+          "text": "Pond · trails · play",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1109-3",
+          "timing": "0:10–0:18",
+          "text": "Parents exhaled",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1109-4",
+          "timing": "0:18–0:24",
+          "text": "Zion White Bison",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-11-11-48-hour-reset",
+      "date": "2026-11-11",
+      "title": "48-Hour Reset",
+      "format": "Reel",
+      "status": "in-creation",
+      "concept": "Couples/friends itinerary reel compressed into 48 hours: arrive, soak, Zion day, fire, slow morning, leave better. Not a rigid schedule graphic; a feeling itinerary.",
+      "hook": "You have 48 hours. Use them well.",
+      "shotList": "Arrive bag-drop, hot tub night, morning coffee, shuttle/Zion beat, firepit close.\n\nCouple or friends (cleared) living the arc, or B-roll story with text chapters.\n\nEach chapter visual. Soft music.",
+      "caption": "You have 48 hours. Use them well. Arrive. Soak. Take a Zion day. Fire at night. Slow morning. Leave lighter. Luxury glamping near Zion with white bison on the property and a guest shuttle when Springdale is on the list. Planning Zion in fall? Stay includes Adventure Perks. Code ZIONFALL26. Book: zionwhitebisonresort.com · (435) 635-3004",
+      "length": "15–25s",
+      "textOverlays": [
+        {
+          "id": "zwb-1111-1",
+          "timing": "0:00–0:03",
+          "text": "48 hours",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1111-2",
+          "timing": "0:03–0:08",
+          "text": "Arrive · Soak",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1111-3",
+          "timing": "0:08–0:14",
+          "text": "Zion day · Fire",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1111-4",
+          "timing": "0:14–0:22",
+          "text": "Leave lighter",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-11-13-guest-reality-check",
+      "date": "2026-11-13",
+      "title": "Guest Reality Check",
+      "format": "Reel",
+      "status": "in-creation",
+      "concept": "What guests thought they booked vs what surprised them (hot tub nights, bison wonder, shuttle relief, quiet). Prefer real guest UGC/quotes. If none, prompt-to-camera for staff/guests.",
+      "hook": "What you thought you booked vs what you got.",
+      "shotList": "Split-screen or smash cuts: expectation (bed) vs surprise (steam, bison distance shot, shuttle).\n\nGuest quotes on-cam or texted quotes as kinetic captions. Needs UGC or staff prompt.\n\nMatching surprise amenities.",
+      "caption": "Guest reality check. You thought you booked a bed near Zion. Guests keep mentioning the extras that hit harder: private hot tubs, quiet nights, white bison wonder from a distance, shuttle relief toward Springdale. zionwhitebisonresort.com · (435) 635-3004",
+      "length": "15–25s",
+      "textOverlays": [
+        {
+          "id": "zwb-1113-1",
+          "timing": "0:00–0:03",
+          "text": "Reality check",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1113-2",
+          "timing": "0:03–0:10",
+          "text": "Thought: a bed",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1113-3",
+          "timing": "0:10–0:18",
+          "text": "Got: steam + wonder",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1113-4",
+          "timing": "0:18–0:24",
+          "text": "Zion White Bison",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-11-14-night-comes-early-still",
+      "date": "2026-11-14",
+      "title": "Night Comes Early (still)",
+      "format": "Static",
+      "status": "in-creation",
+      "concept": "Static companion to 11/2: firelight + hot tub + stars in one frame. Poster energy. Soft caption, no hard sell.",
+      "hook": "Night comes early. Good.",
+      "shotList": "Single hero night still: steam + fire + sky. Typography spare.\n\nN/A.\n\nOne perfect frame.",
+      "caption": "Night comes early. Good. Firelight, private hot tubs, and a desert sky that shows up early in November. Luxury glamping near Zion. zionwhitebisonresort.com · (435) 635-3004",
+      "length": "1 frame",
+      "textOverlays": [
+        {
+          "id": "zwb-1114-1",
+          "timing": "main",
+          "text": "Night comes early. Good.",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1114-2",
+          "timing": "sub",
+          "text": "Fire · steam · stars",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1114-3",
+          "timing": "cta",
+          "text": "Zion White Bison",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-11-16-white-bison-program",
+      "date": "2026-11-16",
+      "title": "The White Bison Program",
+      "format": "Reel",
+      "status": "in-creation",
+      "concept": "How guests experience the white bison (viewing, wonder, care/conservation framing at a high level).",
+      "hook": "They are why we are White Bison.",
+      "shotList": "Bison viewing at a respectful distance. Property wide.\n\nSoft VO on guest experience + respect rules.\n\nBison at distance. Guests watching quietly. Property wide.",
+      "caption": "They are why we are White Bison. Guests stay beside a white bison sanctuary on the property. The experience is wonder-led: watch from a respectful distance, keep the moment quiet, take the feeling home. Luxury glamping and RV near Zion. zionwhitebisonresort.com · (435) 635-3004",
+      "length": "15–25s",
+      "textOverlays": [
+        {
+          "id": "zwb-1116-1",
+          "timing": "0:00–0:03",
+          "text": "Why White Bison",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1116-2",
+          "timing": "0:03–0:10",
+          "text": "Sanctuary on property",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1116-3",
+          "timing": "0:10–0:18",
+          "text": "Wonder from a distance",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1116-4",
+          "timing": "0:18–0:24",
+          "text": "Respect first",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-11-18-water-in-the-desert",
+      "date": "2026-11-18",
+      "title": "Water in the Desert",
+      "format": "Reel",
+      "status": "in-creation",
+      "concept": "Visual curiosity reel about water on property (pond, pool, river edge, hot tub steam) as desert contrast.",
+      "hook": "Water hits different in the desert.",
+      "shotList": "Collect water moments: pond, pool surface, river trail, hot tub steam, morning condensation.\n\nOptional quiet VO: curiosity, not engineering lecture.\n\nMontage of water textures + arid landscape contrast.",
+      "caption": "Water hits different in the desert. Pond light. Pool afternoons. River trails. Steam at night. Luxury glamping near Zion where water becomes part of the stay's quiet luxury. Planning Zion in fall? Stay includes Adventure Perks. Code ZIONFALL26. zionwhitebisonresort.com · (435) 635-3004",
+      "length": "15–25s",
+      "textOverlays": [
+        {
+          "id": "zwb-1118-1",
+          "timing": "0:00–0:03",
+          "text": "Water in the desert",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1118-2",
+          "timing": "0:03–0:10",
+          "text": "Pond · pool · river",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1118-3",
+          "timing": "0:10–0:18",
+          "text": "Steam at night",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1118-4",
+          "timing": "0:18–0:24",
+          "text": "Zion White Bison",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-11-20-hot-tub-season-variant",
+      "date": "2026-11-20",
+      "title": "Hot Tub Season (cold air variant)",
+      "format": "Reel",
+      "status": "in-creation",
+      "concept": "Variant on hot tub season: emphasize cold air, steam plumes, robes, warm room contrast. Different edit energy from 11/6 (more sensory, less declaration).",
+      "hook": "Step out cold. Step in warm.",
+      "shotList": "Cold night. Robe on chair. Steam heavy. Interior warm lamp contrast.\n\nTalent robe walk deck to tub (silhouette).\n\nSteam macro, door closing to warm interior, mug, stars.",
+      "caption": "Step out cold. Step in warm. November steam, robes on the rail, a warm room waiting. Private hot tubs and luxury glamping near Zion when the air finally means it. zionwhitebisonresort.com · (435) 635-3004",
+      "length": "15–25s",
+      "textOverlays": [
+        {
+          "id": "zwb-1120-1",
+          "timing": "0:00–0:03",
+          "text": "Cold air",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1120-2",
+          "timing": "0:03–0:10",
+          "text": "Warm water",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1120-3",
+          "timing": "0:10–0:18",
+          "text": "Robe · steam · room",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1120-4",
+          "timing": "0:18–0:24",
+          "text": "Zion White Bison",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-11-21-choose-your-return-visit",
+      "date": "2026-11-21",
+      "title": "Choose Your White Bison (return visit)",
+      "format": "Carousel",
+      "status": "in-creation",
+      "concept": "Return-visit angle on Choose Your White Bison: which stay do you try second? Encourages repeat stays across Wagon/Tipi/Kiva/RV without inventory dumping.",
+      "hook": "Came once. Which stay is next?",
+      "shotList": "Same four stay heroes with 'Next time:' labels.\n\nN/A.\n\nFour stay stills + CTA.",
+      "caption": "Came once. Which White Bison is next? Try the Covered Wagon if you did Tipi. Try the Kiva if you want elevation. Bring the RV when the road calls. Same sanctuary, new vantage. Near Zion. zionwhitebisonresort.com · (435) 635-3004",
+      "length": "4–6 slides",
+      "textOverlays": [
+        {
+          "id": "zwb-1121-1",
+          "timing": "slide 1",
+          "text": "Which stay is next?",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1121-2",
+          "timing": "slide 2",
+          "text": "Next time: Wagon",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1121-3",
+          "timing": "slide 3",
+          "text": "Next time: Tipi",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1121-4",
+          "timing": "slide 4",
+          "text": "Next time: Kiva",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1121-5",
+          "timing": "slide 5",
+          "text": "Next time: RV",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1121-6",
+          "timing": "slide 6",
+          "text": "Book your return",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-11-23-zion-season-over-late",
+      "date": "2026-11-23",
+      "title": "You Think Zion Season Is Over (late-fall rhythm)",
+      "format": "Reel",
+      "status": "in-creation",
+      "concept": "Lighter-crowds / late-fall rhythm reprise of 11/4 with fresher visuals and softer flex. Thanksgiving-week adjacent but not salesy yet (that's Wed).",
+      "hook": "Late fall has its own Zion rhythm.",
+      "shotList": "Quiet morning property + soft adventure day + early evening return.\n\nText-led or gentle VO.\n\nQuiet path energy, lodging, stars.",
+      "caption": "Late fall has its own Zion rhythm. Softer mornings. Longer nights. Luxury glamping as the warm return. White bison on the property. Guest shuttle when you want Springdale. zionwhitebisonresort.com · (435) 635-3004",
+      "length": "15–25s",
+      "textOverlays": [
+        {
+          "id": "zwb-1123-1",
+          "timing": "0:00–0:03",
+          "text": "Late fall rhythm",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1123-2",
+          "timing": "0:03–0:10",
+          "text": "Softer mornings",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1123-3",
+          "timing": "0:10–0:18",
+          "text": "Longer nights",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1123-4",
+          "timing": "0:18–0:24",
+          "text": "Still Zion",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-11-25-48-hour-reset-thanksgiving",
+      "date": "2026-11-25",
+      "title": "48-Hour Reset (Thanksgiving week)",
+      "format": "Reel",
+      "status": "in-creation",
+      "concept": "Thanksgiving-week angle on 48-hour reset: reconnect before/after holiday travel. Keep light, not holiday-salesy. No turkey gags unless strategist asks. Soft promo allowed as weekly add.",
+      "hook": "Before the chaos. Or after.",
+      "shotList": "Couple/friends quiet beats: arrive, soak, short Zion or property day, fire, leave.\n\nSoft talent or B-roll chapters labeled Before / After travel.\n\nWarm interiors, hot tub, fire, morning coffee.",
+      "caption": "Before the holiday rush. Or after. Forty-eight hours to reconnect: soak, a Zion day, firelight, sleep. Luxury glamping near Zion without making it a sales holiday special. zionwhitebisonresort.com · (435) 635-3004",
+      "length": "15–25s",
+      "textOverlays": [
+        {
+          "id": "zwb-1125-1",
+          "timing": "0:00–0:03",
+          "text": "Before or after the rush",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1125-2",
+          "timing": "0:03–0:10",
+          "text": "48 hours",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1125-3",
+          "timing": "0:10–0:18",
+          "text": "Soak · Zion · fire",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1125-4",
+          "timing": "0:18–0:24",
+          "text": "Reconnect",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-11-27-guest-reality-check-amenity",
+      "date": "2026-11-27",
+      "title": "Guest Reality Check: Surprise Amenity",
+      "format": "Reel",
+      "status": "in-creation",
+      "concept": "Second Guest Reality Check focused on one surprise amenity beat (shuttle relief, mercantile, pickleball, or pond). Prefer real guest line; else prompt-to-camera.",
+      "hook": "The surprise was not the bed.",
+      "shotList": "Pick one surprise amenity after ops/strategist input (default: shuttle parking relief).\n\nGuest quote or staff prompt answer.\n\nAmenity hero coverage.",
+      "caption": "The surprise was not the bed. Guests keep naming the extras: shuttle relief toward Springdale, quiet pond mornings, pickleball between park days, mercantile browsing after the hike. Luxury glamping near Zion with white bison on the property. zionwhitebisonresort.com · (435) 635-3004",
+      "length": "15–25s",
+      "textOverlays": [
+        {
+          "id": "zwb-1127-1",
+          "timing": "0:00–0:03",
+          "text": "The surprise",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1127-2",
+          "timing": "0:03–0:10",
+          "text": "Was not the bed",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1127-3",
+          "timing": "0:10–0:18",
+          "text": "It was the extras",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1127-4",
+          "timing": "0:18–0:24",
+          "text": "Zion White Bison",
+          "style": "overlay"
+        }
+      ]
+    },
+    {
+      "kind": "content",
+      "id": "zwb-2026-11-28-fall-adventure-last-call",
+      "date": "2026-11-28",
+      "title": "Fall Adventure Last Call",
+      "format": "Static",
+      "status": "in-creation",
+      "concept": "Last-call static for ZIONFALL26 if promo still live. Explicit CTA.",
+      "hook": "Last call: Fall Adventure",
+      "shotList": "Elevated last-call static. Tagline + code + CTA.\n\nN/A.\n\nHero stay or adventure composite.",
+      "caption": "Last call on Fall Adventure (confirm end date before this goes live). Stay. Ride. Explore. Code ZIONFALL26. Perks for ZWB guests include shuttle rides to Springdale, coffee and dining offers, and bike deals. Book your Fall Adventure at zionwhitebisonresort.com or call (435) 635-3004.",
+      "length": "1 frame",
+      "textOverlays": [
+        {
+          "id": "zwb-1128-1",
+          "timing": "main",
+          "text": "Last call · Fall Adventure",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1128-2",
+          "timing": "sub",
+          "text": "ZIONFALL26",
+          "style": "overlay"
+        },
+        {
+          "id": "zwb-1128-3",
+          "timing": "cta",
+          "text": "Book your Fall Adventure",
+          "style": "overlay"
+        }
+      ]
+    }
+  ]
+}
